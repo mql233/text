@@ -5,7 +5,7 @@ public class WelcomeAction {
     public String home(){
         return "success";
     }
-public void  hhh(){
+public void  hhhh(){
 
 }
 }
